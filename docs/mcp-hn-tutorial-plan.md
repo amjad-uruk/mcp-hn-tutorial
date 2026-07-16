@@ -207,13 +207,13 @@ estimates and ask which chapter to start. Do not write any project code yet.
 
 Goal: update the README, then commit **only** `README.md` and this plan file to a new
 **public** GitHub repo named **`mcp-hn-tutorial`**. Everything else in the workspace
-(`mountaineers-mcp/`, the rest of `nimbalyst-local/`) stays untracked.
+(e.g. `mountaineers-mcp/`) stays untracked.
 
 **Steps:**
 1. Overwrite `README.md` with the content below.
 2. `git init` at the workspace root (default branch `main`).
 3. Stage exactly two files via the commit-proposal tool:
-   `README.md` and `nimbalyst-local/plans/mcp-hn-tutorial-plan.md`.
+   `README.md` and `docs/mcp-hn-tutorial-plan.md`.
    Commit message: `docs: add MCP tutorial plan and project README`.
 4. `gh repo create mcp-hn-tutorial --public --source=. --remote=origin --push`
    (gh is authenticated as `amjad-uruk`, SSH, `repo` scope).
@@ -246,7 +246,7 @@ makes the model behave as a strict, hands-on tutor: you write all the real code,
 explains, assigns one micro-task at a time, and reviews — never one-shotting the project.
 
 Grab the prompt here:
-[`nimbalyst-local/plans/mcp-hn-tutorial-plan.md`](nimbalyst-local/plans/mcp-hn-tutorial-plan.md)
+[`docs/mcp-hn-tutorial-plan.md`](docs/mcp-hn-tutorial-plan.md)
 
 ## Chapters (~7.5–8.5 hours total, one per sitting)
 
