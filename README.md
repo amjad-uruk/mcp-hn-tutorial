@@ -23,7 +23,7 @@ makes the model behave as a strict, hands-on tutor: you write all the real code,
 explains, assigns one micro-task at a time, and reviews — never one-shotting the project.
 
 Grab the prompt here:
-[`nimbalyst-local/plans/i-want-you-to-ancient-rossum.md`](nimbalyst-local/plans/i-want-you-to-ancient-rossum.md)
+[`nimbalyst-local/plans/mcp-hn-tutorial-plan.md`](nimbalyst-local/plans/mcp-hn-tutorial-plan.md)
 
 ## Chapters (~7.5–8.5 hours total, one per sitting)
 
